@@ -1,1 +1,1 @@
-# DiscreteModels
+# Kruskal's Algorithm
